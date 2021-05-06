@@ -22,6 +22,7 @@ I often use
 and I'm learning
 
 - Go
+- shellgei
 - C#
 - Vim script
 - etc...
