@@ -1,4 +1,4 @@
-<p align="right"> <a href="https://twitter.com/sheeeeepla" target="blank"><img src="https://img.shields.io/twitter/follow/sheeeeepla?logo=twitter&style=for-the-badge" alt="sheeeeepla" /></a> </p>
+<p align="right"> <a href="https://twitter.com/sheeeeepla" target="blank"><img src="https://img.shields.io/twitter/follow/sheeeeepla?logo=twitter&style=flat-square" alt="sheeeeepla" /></a> </p>
 
 # Hi, I'm Sheepla!
 
