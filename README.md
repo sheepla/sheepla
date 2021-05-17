@@ -8,8 +8,8 @@
 
 ## Links
 
-- (Twitter)[https://twitter.com/sheeeeepla]
-- (Gist)[https://gist.github.com/sheepla]
+- <a href="https://twitter.com/sheeeeepla">Twitter</a>
+- <a href="[https://gist.github.com/sheepla]">Gist</a>
 
 ## Environment
 
