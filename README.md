@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi, I'm Sheepla!</h1>
 
-<p align="center">🐑</p>
 <p align="center">I'm making CLI tools, wallpapers and some application themes.</p>
 
 <img src="./img/banner.png"/>
