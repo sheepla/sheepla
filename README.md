@@ -6,6 +6,11 @@
 
 <img src="./img/banner.png"/>
 
+## Links
+
+- (Twitter)[https://twitter.com/sheeeeepla]
+- (Gist)[https://gist.github.com/sheepla]
+
 ## Environment
 
 <p align="center"><img src="https://img.shields.io/static/v1?label=OS&message=Windows/Arch%20Linux&color=blue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=WM&message=i3-gaps&color=lightgray&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Editor&message=Vim/NeoVim&color=green&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Browser&message=Firefox&color=orange&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Keyboard&message=HHKB&color=lightgray&style=flat-square"/></p>
