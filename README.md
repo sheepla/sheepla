@@ -1,7 +1,8 @@
 <p align="right"> <a href="https://twitter.com/sheeeeepla" target="blank"><img src="https://img.shields.io/twitter/follow/sheeeeepla?logo=twitter&style=flat-square" alt="sheeeeepla" /></a> </p>
 
-<h1 align="center">🐑 Hi, I'm Sheepla! 🐑</h1>
+<h1 align="center">Hi, I'm Sheepla!</h1>
 
+<p align="center">🐑</p>
 <p align="center">I'm making CLI tools, wallpapers and some application themes.</p>
 
 <img src="./img/banner.png"/>
