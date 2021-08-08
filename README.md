@@ -33,6 +33,9 @@ and I'm learning
 - Vim script
 - etc...
 
+## About My Repos
+
+Unless otherwise stated, the license for my repository is MIT.
 
 ## Stats
 
