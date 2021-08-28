@@ -8,9 +8,9 @@
 
 ## Links
 
-- <a href="https://twitter.com/sheeeeepla">Twitter</a>
-- <a href="https://gist.github.com/sheepla">Gist</a>
-- <a href="https://sheepla.github.io/sheepla-note">Blog</a>
+- <a href="https://twitter.com/sheeeeepla">🐦 Twitter</a>
+- <a href="https://gist.github.com/sheepla">💻 Gist</a>
+- <a href="https://sheepla.github.io/sheepla-note">📝 Blog</a>
 
 ## My Environment
 
