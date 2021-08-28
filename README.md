@@ -14,7 +14,7 @@
 
 ## My Environment
 
-<p align="center"><img src="https://img.shields.io/static/v1?label=OS&message=Windows/Arch%20Linux&color=blue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=WM&message=i3-gaps&color=lightgray&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Editor&message=Vim/NeoVim&color=green&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Browser&message=Firefox&color=orange&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Keyboard&message=HHKB&color=lightgray&style=flat-square"/></p>
+<p align="center"><img src="https://img.shields.io/static/v1?label=OS&message=Windows/Arch%20Linux&color=blue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=WM&message=i3-gaps&color=lightgray&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Editor&message=NeoVim&color=green&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Browser&message=Firefox/Vivaldi&color=orange&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Keyboard&message=HHKB&color=lightgray&style=flat-square"/></p>
 
 
 ## Languages
