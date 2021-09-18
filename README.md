@@ -23,28 +23,11 @@
 
 <p align="center"><img src="https://img.shields.io/static/v1?label=OS&message=Windows/Arch%20Linux&color=blue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=WM&message=i3-gaps&color=lightgray&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Editor&message=NeoVim&color=green&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Browser&message=Firefox/Vivaldi&color=orange&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Keyboard&message=HHKB&color=lightgray&style=flat-square"/></p>
 
-
-## Languages
-
-I often use
-
-- bash
-- PowerShell
-- Python
-
-and I'm learning
-
-- Go
-- shellgei
-- C#
-- Vim script
-- etc...
-
 ## About My Repos
 
 Unless otherwise stated, the license for my repository is MIT.
 
-## Stats
+## Stats & Top Langs
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheepla&show_icons=true&locale=en&theme=tokyonight" alt="sheepla" href="https://github.com/sheepla" /></p>
 
