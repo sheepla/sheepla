@@ -46,4 +46,6 @@ Unless otherwise stated, the license for my repository is MIT.
 
 ## Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheepla&show_icons=true&locale=en&theme=tokyonight" alt="sheepla" href="" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheepla&show_icons=true&locale=en&theme=tokyonight" alt="sheepla" href="https://github.com/sheepla" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheepla&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
