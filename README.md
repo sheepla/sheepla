@@ -11,7 +11,13 @@
 
 <p align="center">I'm making CLI tools, wallpapers and some application themes.</p>
 
+<!--
 <img src="./img/banner.png"/>
+-->
+
+<div align="center">
+<img src="https://typograssy.deno.dev/api?text=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%81%B2%E3%81%A4%E3%81%98%E3%81%A7%E3%81%99%E3%80%82&l0=f5f5ff&l1=c5cae9&l2=7986cb&l3=aab2da&l4=1a237e&frame=7986cb&speed=100" />
+</div>
 
 ## Links
 
@@ -29,5 +35,5 @@ Unless otherwise stated, the license for my repository is MIT.
 
 ## Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheepla&show_icons=true&locale=en&layout=compact&hide_border=true&theme=nord&show_icons=ture&bg_color=161821&icon_color=e2a478&text_color=abb0c9&title_color=444b71&count_private=ture" alt="sheepla" href="https://github.com/sheepla" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheepla&show_icons=true&locale=en&layout=compact&hide_border=true&theme=nord&show_icons=ture&bg_color=1e2137&icon_color=e2a478&text_color=abb0c9&title_color=84a0c6&count_private=ture" alt="sheepla" href="https://github.com/sheepla" /></p>
 
