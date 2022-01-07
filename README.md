@@ -12,7 +12,9 @@
 -->
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/62412884?s=400&u=fc38ecd8a10ffe0838edf129d5049ea9e81167e2&v=4" width="20%">
+    <a href="https://github.com/kawarimidoll/typograssy">
+        <img src="https://avatars.githubusercontent.com/u/62412884?s=400&u=fc38ecd8a10ffe0838edf129d5049ea9e81167e2&v=4" width="20%">
+    </a>
 </div>
 
 ## ❯ whoami
