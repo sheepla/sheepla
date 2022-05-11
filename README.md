@@ -33,16 +33,37 @@ Hi, I'm **sheepla** . I love CLI! I'm creating command line tools, wallpapers, r
 <img src="https://typograssy.deno.dev/api?text=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%81%B2%E3%81%A4%E3%81%98%E3%81%A7%E3%81%99%E3%80%82&l0=f5f5ff&l1=c5cae9&l2=7986cb&l3=aab2da&l4=1a237e&frame=7986cb&speed=100" />
 </div>
 
+## ❯ echo $LANG
+
+
+<div align="center">
+
+🇯🇵  **ja_JP.UTF8**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-444444?style=flat-square&logo=gnu-bash&logoColor=white)
+![TypeScript(Deno)](https://img.shields.io/badge/Deno-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PowerShell](https://img.shields.io/badge/Powershell-5d2d91?style=flat-square&logo=powershell&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-377bAB?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
 ## ❯ printenv
 
-<div align="center"><img src="https://img.shields.io/static/v1?label=OS&message=Windows/Arch%20Linux&color=blue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=WM&message=i3-gaps&color=lightgray&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Editor&message=NeoVim&color=green&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Browser&message=Firefox/Vivaldi&color=orange&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Keyboard&message=HHKB&color=lightgray&style=flat-square"/></div>
+<div align="center">
 
-## ❯ ls ~/Links
+![Arch Linux](https://img.shields.io/badge/btw-i_use_arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 
-- <a href="https://twitter.com/sheeeeepla">🐦 Twitter</a>
-- <a href="https://gist.github.com/sheepla">💻 Gist</a>
-- <a href="https://sheepla.github.io/sheepla-note">📝 Blog</a>
-- <a href="https://scrapbox.io/sheepla">📒 Scrapbox</a>
+<img src="https://img.shields.io/static/v1?label=OS&message=Windows%20/%20Arch%20Linux&color=blue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=WM&message=i3-gaps&color=lightgray&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Editor&message=NeoVim&color=green&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Browser&message=Firefox%20/%20Vivaldi&color=orange&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Keyboard&message=HHKB&color=lightgray&style=flat-square"/>
+</div>
+
+## ❯ ls -l ~/Links
+
+- `lr--r--r--` `sheepla` [🐦 Twitter](https://twitter.com/sheeeeepla) `->` `twitter.com/sheeeeepla`
+- `lr--r--r--` `sheepla` [💻 Gist](https://gist.github.com/sheepla) `->` `gist.github.com/sheepla`
+- `lr--r--r--` `sheepla` [📝 Blog](https://sheepla.github.io/sheepla-note) `->` `sheepla.github.io/sheepla-note`
+- `lr--r--r--` `sheepla` [📒 Scrapbox](https://scrapbox.io/sheepla) `->` `scrapbox.io/sheepla`
 
 ## ❯ gh stats
 
