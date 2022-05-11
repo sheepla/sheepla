@@ -2,9 +2,6 @@
 <a href="https://twitter.com/sheeeeepla" target="blank">
     <img src="https://img.shields.io/twitter/follow/sheeeeepla?logo=twitter&style=flat-square" alt="sheeeeepla" />
 </a>
-<a href="https://sheepla.github.io/sheepla-note">
-<img src="https://img.shields.io/static/v1?label=Blog&message=SHEEPLA%20NOTE&color=blue&style=flat-square"/>
-</a>
 </p>
 
 <!--
