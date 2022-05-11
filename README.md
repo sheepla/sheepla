@@ -47,3 +47,7 @@ Hi, I'm **sheepla** . I love CLI! I'm creating command line tools, wallpapers, r
 ## ❯ gh stats
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sheepla&show_icons=true&locale=en&layout=compact&hide_border=true&theme=nord&show_icons=ture&bg_color=1e2137&icon_color=e2a478&text_color=abb0c9&title_color=84a0c6&count_private=ture" alt="sheepla" href="https://github.com/sheepla" /></div>
+
+## ❯ gh repo fork sheepla/sheepla
+
+Fork me and customize to create your profile page!
