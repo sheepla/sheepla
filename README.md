@@ -39,9 +39,9 @@ Hi, I'm **sheepla** . I love CLI! I'm creating command line tools, wallpapers, r
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-444444?style=flat-square&logo=gnu-bash&logoColor=white)
-![TypeScript(Deno)](https://img.shields.io/badge/Deno-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TypeScript(Deno)](https://img.shields.io/badge/Deno-666666?style=flat-square&logo=typescript&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/Powershell-5d2d91?style=flat-square&logo=powershell&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-377bAB?style=flat-square&logo=python&logoColor=white)
 
 </div>
