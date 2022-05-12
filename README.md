@@ -57,10 +57,10 @@ Hi, I'm **sheepla** . I love CLI! I'm creating command line tools, wallpapers, r
 
 ## ❯ ls -l ~/Links
 
-- `lr--r--r--` `sheepla` [🐦 Twitter](https://twitter.com/sheeeeepla) `->` `twitter.com/sheeeeepla`
-- `lr--r--r--` `sheepla` [💻 Gist](https://gist.github.com/sheepla) `->` `gist.github.com/sheepla`
-- `lr--r--r--` `sheepla` [📝 Blog](https://sheepla.github.io/sheepla-note) `->` `sheepla.github.io/sheepla-note`
-- `lr--r--r--` `sheepla` [📒 Scrapbox](https://scrapbox.io/sheepla) `->` `scrapbox.io/sheepla`
+- `lr--r--r--` `sheepla` [🐦 Twitter](https://twitter.com/sheeeeepla)
+- `lr--r--r--` `sheepla` [💻 Gist](https://gist.github.com/sheepla)
+- `lr--r--r--` `sheepla` [📝 Blog](https://sheepla.github.io/sheepla-note)
+- `lr--r--r--` `sheepla` [📒 Scrapbox](https://scrapbox.io/sheepla)
 
 ## ❯ gh stats
 
