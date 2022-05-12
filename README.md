@@ -66,13 +66,14 @@ Hi, I'm **sheepla** . I love CLI! I'm creating command line tools, wallpapers, r
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sheepla&show_icons=true&locale=en&layout=compact&hide_border=true&theme=nord&show_icons=ture&bg_color=1e2137&icon_color=e2a478&text_color=abb0c9&title_color=84a0c6&count_private=ture" alt="sheepla" href="https://github.com/sheepla" /></div>
 
-## ❯ gh repo fork sheepla/sheepla
-
-Fork me and customize to create your profile page!
-
 ## ❯ cat CREDITS
 
 - [Badges-for-GitHub](https://github.com/Envoy-VC/Badges-for-GitHub): 📛 A Cureted list of Badges used in GitHub
 - [shields.io](https://github.com/badges/shields): 🟩 Concise, consistent, and legible badges in SVG and raster format 
 - [Typograssy](https://github.com/kawarimidoll/typograssy): 🌿 Typography like GitHub-grass 
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats): ⚡ Dynamically generated stats for your github readmes 
+
+## ❯ gh repo fork sheepla/sheepla
+
+Fork this repo and customize to create your profile page!
+
