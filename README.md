@@ -69,3 +69,10 @@ Hi, I'm **sheepla** . I love CLI! I'm creating command line tools, wallpapers, r
 ## ❯ gh repo fork sheepla/sheepla
 
 Fork me and customize to create your profile page!
+
+## ❯ cat CREDITS
+
+- [Badges-for-GitHub](https://github.com/Envoy-VC/Badges-for-GitHub): 📛 A Cureted list of Badges used in GitHub
+- [shields.io](https://github.com/badges/shields): 🟩 Concise, consistent, and legible badges in SVG and raster format 
+- [Typograssy](https://github.com/kawarimidoll/typograssy): 🌿 Typography like GitHub-grass 
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats): ⚡ Dynamically generated stats for your github readmes 
