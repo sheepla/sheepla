@@ -22,7 +22,7 @@
 
 <div align="center">
 
-Hi, I'm **sheepla** . I love CLI! I'm creating command line tools, wallpapers, rice for Arch Linux, etc...
+Hi, I'm **sheepla**, developing various command line tools and other. I love command line interface, Go, Vim, Arch Linux, infrastructure technology, etc.
 
 </div>
 
