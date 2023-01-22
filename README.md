@@ -52,7 +52,7 @@ Hi, I'm **sheepla** . I love CLI! I'm creating command line tools, wallpapers, r
 
 ![Arch Linux](https://img.shields.io/badge/btw-i_use_arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 
-<img src="https://img.shields.io/static/v1?label=OS&message=Arch%20Linux%20/%20Windows&color=blue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=WM&message=i3-gaps&color=lightgray&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Editor&message=Neovim&color=green&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Browser&message=Firefox%20/%20Vivaldi&color=orange&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Keyboard&message=HHKB&color=lightgray&style=flat-square"/>
+<img src="https://img.shields.io/static/v1?label=Main&message=Arch&color=blue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Sub1&message=Windows%2011&color=blue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Sub2&message=Windows%20Server%202022&color=blue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=WM&message=i3-gaps&color=lightgray&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Editor&message=Neovim&color=green&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Browser&message=Firefox&color=orange&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Keyboard&message=HHKB&color=lightgray&style=flat-square"/>
 </div>
 
 ## ❯ ls -l ~/Links
@@ -71,9 +71,5 @@ Hi, I'm **sheepla** . I love CLI! I'm creating command line tools, wallpapers, r
 - [Badges-for-GitHub](https://github.com/Envoy-VC/Badges-for-GitHub): 📛 A Cureted list of Badges used in GitHub
 - [shields.io](https://github.com/badges/shields): 🟩 Concise, consistent, and legible badges in SVG and raster format 
 - [Typograssy](https://github.com/kawarimidoll/typograssy): 🌿 Typography like GitHub-grass 
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats): ⚡ Dynamically generated stats for your github readmes 
-
-## ❯ gh repo fork sheepla/sheepla
-
-Fork this repo and customize to create your profile page!
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats): ⚡ Dynamically generated stats for your github readmes
 
