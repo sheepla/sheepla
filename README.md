@@ -40,8 +40,8 @@ Hi, I'm **sheepla**, developing various command line tools and other. I love com
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript(Deno)](https://img.shields.io/badge/Deno-666666?style=flat-square&logo=typescript&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/Powershell-5d2d91?style=flat-square&logo=powershell&logoColor=white)
-![F# (Begginer)](https://img.shields.io/badge/fsharp-30b9db?style=flat-square&logo=fsharp&logoColor=white)
-![Rust (Begginer)](https://img.shields.io/badge/Rust-e56b1a?style=flat-square&logo=rust&logoColor=white&logoColor=orange)
+![F# - Begginer](https://img.shields.io/badge/fsharp-30b9db?style=flat-square&logo=fsharp&logoColor=white)
+![Rust - Begginer](https://img.shields.io/badge/Rust-e56b1a?style=flat-square&logo=rust&logoColor=white&logoColor=orange)
 </div>
 
 ## ❯ printenv
