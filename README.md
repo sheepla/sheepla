@@ -22,7 +22,7 @@
 
 <div align="center">
 
-Hi, I'm **sheepla**, developing various command line tools and other. I love command line interface, Go, Vim, Arch Linux, infrastructure technology, etc.
+Hi, I'm **sheepla**, developing various command line tools and other. I love command line interface, Go, Rust, F#, TypeScript, Neovim, Arch Linux, infrastructure technology, etc.
 
 </div>
 
@@ -37,20 +37,6 @@ Hi, I'm **sheepla**, developing various command line tools and other. I love com
 
 🇯🇵  **ja_JP.UTF8**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript(Deno)](https://img.shields.io/badge/Deno-666666?style=flat-square&logo=typescript&logoColor=white)
-![PowerShell](https://img.shields.io/badge/Powershell-5d2d91?style=flat-square&logo=powershell&logoColor=white)
-![F# - Begginer](https://img.shields.io/badge/fsharp-30b9db?style=flat-square&logo=fsharp&logoColor=white)
-![Rust - Begginer](https://img.shields.io/badge/Rust-e56b1a?style=flat-square&logo=rust&logoColor=white&logoColor=orange)
-</div>
-
-## ❯ printenv
-
-<div align="center">
-
-![Arch Linux](https://img.shields.io/badge/btw-i_use_arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-
-<img src="https://img.shields.io/static/v1?label=Main&message=Arch&color=skyblue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Sub&message=Windows%20Server%202022&color=royalblue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Server&message=Proxmox%20VE&color=orange&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=WM&message=i3&color=lightgray&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Editor&message=Neovim&color=green&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Browser&message=Firefox%20Developer%20Edition&color=blue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Keyboard&message=HHKB&color=lightgray&style=flat-square"/>
 </div>
 
 ## ❯ ls -l ~/Links
