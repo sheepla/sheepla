@@ -1,8 +1,4 @@
-<p align="right">
-<a href="https://twitter.com/sheeeeepla" target="blank">
-    <img src="https://img.shields.io/twitter/follow/sheeeeepla?logo=twitter&style=flat-square" alt="sheeeeepla" />
-</a>
-</p>
+
 
 <!--
 <img src="./img/banner.png"/>
@@ -22,7 +18,9 @@
 
 <div align="center">
 
-Hi, I'm **sheepla**, developing various command line tools and other. I love command line interface, Go, Rust, F#, TypeScript, Neovim, Arch Linux, infrastructure technology, etc.
+Hi, there. I'm **sheepla**, a sheep creating various command line tools and other. 
+
+I love command line interface & TUI, Neovim, Arch Linux, Windows Server, infrastructure technologies, cybersecurity, etc...
 
 </div>
 
@@ -35,25 +33,6 @@ Hi, I'm **sheepla**, developing various command line tools and other. I love com
 
 <div align="center">
 
-🇯🇵  **ja_JP.UTF8**
+ LANG=🇯🇵  **ja_JP.UTF8** and I love Go, Rust, F#, and TypeScript!
 
 </div>
-
-## ❯ ls -l ~/Links
-
-- `lr--r--r--` `sheepla` [🐦 Twitter](https://twitter.com/sheeeeepla)
-- `lr--r--r--` `sheepla` [💻 Gist](https://gist.github.com/sheepla)
-- `lr--r--r--` `sheepla` [📝 Blog](https://sheepla.github.io/sheepla-note)
-- `lr--r--r--` `sheepla` [📒 Scrapbox](https://scrapbox.io/sheepla)
-
-## ❯ gh stats
-
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sheepla&show_icons=true&locale=en&layout=compact&hide_border=true&theme=nord&show_icons=ture&bg_color=1e2137&icon_color=e2a478&text_color=abb0c9&title_color=84a0c6&count_private=ture" alt="sheepla" href="https://github.com/sheepla" /></div>
-
-## ❯ cat CREDITS
-
-- [Badges-for-GitHub](https://github.com/Envoy-VC/Badges-for-GitHub): 📛 A Cureted list of Badges used in GitHub
-- [shields.io](https://github.com/badges/shields): 🟩 Concise, consistent, and legible badges in SVG and raster format 
-- [Typograssy](https://github.com/kawarimidoll/typograssy): 🌿 Typography like GitHub-grass 
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats): ⚡ Dynamically generated stats for your github readmes
-
