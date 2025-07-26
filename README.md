@@ -20,7 +20,7 @@
 
 Hi, there. I'm **sheepla**, a sheep creating various command line tools and other. 
 
-I love command line interface & TUI, Neovim, Arch Linux, Windows Server, infrastructure technologies, cybersecurity, etc...
+I love funcitonal programming, command line interface & TUI, Neovim, Arch Linux, Windows Server, infrastructure technologies, cybersecurity, etc...
 
 </div>
 
@@ -33,6 +33,6 @@ I love command line interface & TUI, Neovim, Arch Linux, Windows Server, infrast
 
 <div align="center">
 
- LANG=🇯🇵  **ja_JP.UTF8** and I love Go, Rust, F#, and TypeScript!
+ LANG=🇯🇵  **ja_JP.UTF8** and I love Go, Rust, TypeScript, OCaml, F# and Standard ML!
 
 </div>
